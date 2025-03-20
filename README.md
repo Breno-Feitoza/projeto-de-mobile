@@ -1,0 +1,3 @@
+Objetivo do Projeto
+
+Este projeto tem como objetivo principal aumentar a visibilidade da ONG UIPA (União Internacional Protetora dos Animais), promovendo sua missão de proteção e adoção de animais abandonados. Através do desenvolvimento de um aplicativo intuitivo e funcional, buscamos conectar potenciais adotantes e voluntários aos animais resgatados pela UIPA, além de incentivar doações e compartilhar conteúdos educacionais sobre adoção responsável e bem-estar animal. Nosso propósito é criar uma plataforma que inspire mais pessoas a apoiar esta causa e transformar vidas.
