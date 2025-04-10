@@ -32,6 +32,9 @@ export default function RootLayout() {
       <Stack>
         <Stack.Screen name="index"/>
         <Stack.Screen name="+not-found" />
+        <Stack.Screen name="adote"/>
+        <Stack.Screen name="sobre"/>
+        <Stack.Screen name="doacoes"/>
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
