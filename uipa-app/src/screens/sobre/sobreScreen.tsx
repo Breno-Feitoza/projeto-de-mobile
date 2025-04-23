@@ -13,8 +13,8 @@ export const Sobre = () => {
             </Text>
             <Image source={require('../../images/sobreImage.png')} style={{ width: 200, height: 200, marginBottom: 20 }} />
             <View style={styles.buttonContainer}>
-                <Button title="entre em contato" onPress={() => router.navigate('/')} />
-                <Button title="voltar" onPress={() => router.back()} />
+                <Button title="entre em contato" onPress={() => router.navigate('/contato')} />
+                <Button title="voltar" onPress={() => router.navigate('/')} />
             </View>
         </View>
     )

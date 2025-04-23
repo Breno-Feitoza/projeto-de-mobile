@@ -15,7 +15,7 @@ export const Adote = () => {
             <Text style={styles.text}>Thor, 3 anos</Text>
           </View>
           <View style={styles.buttonContainer}>
-            <Button title="Adotar" onPress={() => router.navigate('/')} />
+            <Button title="Adotar" onPress={() => router.navigate('/forms_adotar')} />
           </View>
         </View>
 
@@ -27,7 +27,7 @@ export const Adote = () => {
             <Text style={styles.text}>Rex, 1 ano</Text>
           </View>
           <View style={styles.buttonContainer}>
-            <Button title="Adotar" onPress={() => router.navigate('/')} />
+            <Button title="Adotar" onPress={() => router.navigate('/forms_adotar')} />
           </View>
         </View>
 
@@ -39,10 +39,11 @@ export const Adote = () => {
             <Text style={styles.text}>Luna, 4 anos</Text>
           </View>
           <View style={styles.buttonContainer}>
-            <Button title="Adotar" onPress={() => router.navigate('/')} />
+            <Button title="Adotar" onPress={() => router.navigate('/forms_adotar')} />
           </View>
         </View>
       </View>
+      <Button title="Voltar" onPress={() => router.navigate('/')} />
     </View>
   );
 };

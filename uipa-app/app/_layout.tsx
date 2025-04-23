@@ -35,6 +35,8 @@ export default function RootLayout() {
         <Stack.Screen name="adote"/>
         <Stack.Screen name="sobre"/>
         <Stack.Screen name="doacoes"/>
+        <Stack.Screen name="contato"/>
+        <Stack.Screen name="forms_adotar"/>
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
