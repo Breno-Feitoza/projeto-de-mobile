@@ -15,6 +15,7 @@ export const Home = () => {
         <Button title="Adote" onPress={() => router.navigate('/adote')} />
         <Button title="Doações" onPress={() => router.navigate('/doacoes')} />
         <Button title="Conheça Mais" onPress={() => router.navigate('/sobre')} />
+        <Button title="clínica" onPress={() => router.navigate('/clinica')} />
       </View>
     </View>
   );
