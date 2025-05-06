@@ -20,7 +20,7 @@ export const Clinica = () => {
             <View style={styles.card_main}>
                 <View style={styles.card}>
                     <Text style={styles.description}>Para agendamento aos sábados</Text>
-                    <Button title="Clique aqui" onPress={() => router.navigate('/')} />
+                    <Button title="Clique aqui" onPress={() => router.navigate('/forms_clinica')} />
                 </View>
             </View>
         </View>

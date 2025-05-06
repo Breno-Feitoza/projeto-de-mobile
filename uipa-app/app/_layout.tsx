@@ -38,6 +38,7 @@ export default function RootLayout() {
         <Stack.Screen name="contato"/>
         <Stack.Screen name="forms_adotar"/>
         <Stack.Screen name="clinica"/>
+        <Stack.Screen name="forms_clinica"/>
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
